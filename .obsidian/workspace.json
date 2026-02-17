@@ -164,7 +164,7 @@
             }
           },
           {
-            "id": "8b1617135634f68e",
+            "id": "2a3e1cb6f00a926c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -189,10 +189,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false,
+      "githobs:Manage a github issue": false
     }
   },
-  "active": "54ea5c478611dedd",
+  "active": "3d9392ea4f3b61d9",
   "lastOpenFiles": [
     "Untitled.base",
     "create a link.md",

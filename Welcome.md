@@ -1,5 +1,6 @@
 ---
 github_repo: peonies1007|test_obsidian
+github_issue: 1
 ---
 This is your new *vault*. asdas
 
